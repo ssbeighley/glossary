@@ -1,4 +1,4 @@
-# Project Connections
+# Glossary
 
 This is a simple interactive glossary that lets you search or browse the terms.
 
