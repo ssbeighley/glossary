@@ -1,0 +1,38 @@
+.glossaryNav ul.nav-pills .nav-link {
+  padding-left: 0.3em;
+  padding-right: 0.3em; }
+.glossaryNav ul.nav-pills a.disabled {
+  cursor: not-allowed; }
+
+#glossary .list li:nth-child(even) {
+  background: #fff;
+  padding: 15px 5px; }
+#glossary .list li:nth-child(odd) {
+  background: #edeeee;
+  padding: 15px 5px; }
+#glossary .list li span {
+  font-weight: normal; }
+  #glossary .list li span.term {
+    display: block;
+    font-weight: bold; }
+  #glossary .list li span.meaning {
+    display: block; }
+#glossary .list .list-heading {
+  background: #fff !important;
+  border-bottom: 1px solid #edeeee;
+  display: block;
+  font-weight: bold;
+  margin: 5px 0;
+  padding: 5px; }
+  #glossary .list .list-heading span {
+    display: inline-block;
+    float: right;
+    font-size: 0.875em; }
+  #glossary .list .list-heading:first-child span {
+    display: none; }
+  #glossary .list .list-heading .anchor {
+    display: block;
+    position: relative;
+    visibility: hidden; }
+
+/*# sourceMappingURL=style.css.map */
